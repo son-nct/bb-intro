@@ -1,6 +1,9 @@
 <script>
 useHead({
   title: 'BURNING BROS 🔥',
+  link: [
+    { rel: 'icon', type: 'image/png', href: 'https://cdn.prod.website-files.com/6673cae5d9f6bd50157e1c79/6684ec10ed5e6888baf5d8f4_light%20mode%20favicon-256x256.svg' },
+  ]
 });
 </script>
 
